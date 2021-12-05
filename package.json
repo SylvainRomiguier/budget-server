@@ -1,0 +1,10 @@
+{
+  "name": "budget-server",
+  "version": "1.0.0",
+  "description": "a DDD clean architecture budget server",
+  "main": "index.ts",
+  "repository": "https://github.com/SylvainRomiguier/budget-server.git",
+  "author": "Sylvain Romiguier",
+  "license": "MIT",
+  "private": null
+}
